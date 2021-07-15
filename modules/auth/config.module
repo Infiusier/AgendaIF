@@ -1,0 +1,8 @@
+name=auth
+version=1.0.0
+app=auth
+visibility=private
+use_helper=1
+use_session=1
+default_view=entrar
+view_not_found=404

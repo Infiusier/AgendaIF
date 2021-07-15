@@ -1,0 +1,8 @@
+name=suporte
+version=1.0.0
+app=application
+visibility=public
+use_helper=1
+use_session=1
+default_view=meus-tickets
+view_not_found=404

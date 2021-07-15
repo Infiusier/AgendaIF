@@ -1,0 +1,54 @@
+{
+	"atlantis-login": {
+		"css": [
+			"public/atlantis/assets/css/bootstrap.min.css",
+			"public/atlantis/assets/css/atlantis.css",
+			"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+		],
+		"js": [
+			"public/atlantis/assets/js/core/jquery.3.2.1.min.js",
+			"public/atlantis/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js",
+			"public/atlantis/assets/js/core/popper.min.js",
+			"public/atlantis/assets/js/plugin/sweetalert/sweetalert.min.js",
+			"public/atlantis/assets/js/core/bootstrap.min.js",
+			"public/atlantis/assets/js/atlantis.min.js"
+		]
+	},
+	"atlantis-default": {
+		"css": [
+			"public/atlantis/assets/css/bootstrap.min.css",
+			"public/atlantis/assets/css/atlantis.css",
+			"public/atlantis/assets/css/demo.css"
+		],
+		"js": [
+			"public/atlantis/assets/js/core/jquery.3.2.1.min.js",
+			"public/atlantis/assets/js/core/popper.min.js",
+			"public/atlantis/assets/js/core/bootstrap.min.js",
+			"public/atlantis/assets/js/core/bootstrap-select.js",
+			"public/atlantis/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js",
+			"public/atlantis/assets/js/plugin/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js",
+			"public/atlantis/assets/js/plugin/sweetalert/sweetalert.min.js",
+			"public/atlantis/assets/js/plugin/bootstrap-toggle/bootstrap-toggle.min.js",
+			"public/atlantis/assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js",
+			"public/atlantis/assets//js/plugin/select2/select2.full.min.js",
+			"public/atlantis/assets/js/atlantis.min.js",
+			"public/atlantis/assets/js/setting-demo2.js",
+			"https://kit.fontawesome.com/02869f4f66.js",
+			"https://cdnjs.cloudflare.com/ajax/libs/jquery-maskmoney/3.0.2/jquery.maskMoney.min.js"
+		]
+	},
+	"datatable": {
+		"css":[],
+		"js": [
+			"public/atlantis/assets/js/plugin/datatables/datatables.min.js"
+		] 
+	},
+	"charts": {
+		"css": [],
+		"js": [
+			"public/atlantis/assets/js/plugin/chart.js/chart.min.js",
+			"public/atlantis/assets/js/plugin/moment/moment.min.js",
+			"public/atlantis/assets/js/plugin/chart-circle/circles.min.js"
+		]
+	}
+}

@@ -1,0 +1,27 @@
+[08-Oct-2020 14:59:47 America/Sao_Paulo] PHP Notice:  Undefined index: SEGMENT_URI in /var/www/html/medusa/global/src/audit.php on line 7
+[08-Oct-2020 14:59:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /var/www/html/medusa/global/src/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/medusa/global/src/audit.php on line 9
+[08-Oct-2020 15:00:16 America/Sao_Paulo] PHP Notice:  Undefined index: SEGMENT_URI in /var/www/html/medusa/global/src/audit.php on line 7
+[08-Oct-2020 15:00:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /var/www/html/medusa/global/src/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/medusa/global/src/audit.php on line 9
+[08-Oct-2020 15:00:17 America/Sao_Paulo] PHP Notice:  Undefined index: SEGMENT_URI in /var/www/html/medusa/global/src/audit.php on line 7
+[08-Oct-2020 15:00:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /var/www/html/medusa/global/src/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/medusa/global/src/audit.php on line 9
+[08-Oct-2020 15:00:17 America/Sao_Paulo] PHP Notice:  Undefined index: SEGMENT_URI in /var/www/html/medusa/global/src/audit.php on line 7
+[08-Oct-2020 15:00:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /var/www/html/medusa/global/src/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/medusa/global/src/audit.php on line 9
+[08-Oct-2020 15:00:17 America/Sao_Paulo] PHP Notice:  Undefined index: SEGMENT_URI in /var/www/html/medusa/global/src/audit.php on line 7
+[08-Oct-2020 15:00:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /var/www/html/medusa/global/src/audit.php:9
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/medusa/global/src/audit.php on line 9
+[08-Oct-2020 15:00:26 America/Sao_Paulo] PHP Notice:  Undefined index: SEGMENT_URI in /var/www/html/medusa/global/src/audit.php on line 7
+[08-Oct-2020 15:00:27 America/Sao_Paulo] PHP Notice:  Undefined index: SEGMENT_URI in /var/www/html/medusa/global/src/audit.php on line 7

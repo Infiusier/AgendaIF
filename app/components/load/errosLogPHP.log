@@ -1,0 +1,6 @@
+[03-Nov-2020 18:50:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /var/www/html/medusa/global/src/CURL.php on line 93
+[13-Nov-2020 10:56:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /var/www/html/medusa/global/src/Helper.php on line 30
+[13-Nov-2020 10:56:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /var/www/html/medusa/global/src/Helper.php on line 30
+[13-Nov-2020 10:56:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /var/www/html/medusa/global/src/Helper.php on line 30
+[13-Nov-2020 10:56:23 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /var/www/html/medusa/global/src/Helper.php on line 30
+[13-Nov-2020 10:56:23 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /var/www/html/medusa/global/src/Helper.php on line 30

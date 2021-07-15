@@ -1,0 +1,1 @@
+{"cron":{"pedidos":{"importacao_vtex":{"val":"1","status":"off","start":"","end":""},"atualizacao_vtex":{"val":"1","status":"on","start":"09:45:01","end":"16:42:01"},"gerar_orcamento":{"val":"3","status":"off","start":"","end":""},"gerar_faturamento":{"val":"6","status":"off","start":"","end":""}}}}
